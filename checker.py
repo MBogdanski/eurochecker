@@ -20,9 +20,9 @@ agd_class_items = [
     AgdItem('indukcja', 'https://www.euro.com.pl/plyty-do-zabudowy/electrolux-eiv835.bhtml'),
     AgdItem('pralka', 'https://www.euro.com.pl/pralki/samsung-addwash-ww80t554dae.bhtml'),
     AgdItem('piekarnik', 'https://www.euro.com.pl/piekarniki-do-zabudowy/electrolux-coc8h31z.bhtml'),
-    AgdItem('odkurzacz', 'https://www.euro.com.pl/odkurzacze-pionowe/samsung-jet-90-premium-vs20r9048t3-ge.bhtml'),
+    # AgdItem('odkurzacz', 'https://www.euro.com.pl/odkurzacze-pionowe/samsung-jet-90-premium-vs20r9048t3-ge.bhtml'),
     AgdItem('zmywarka', 'https://www.euro.com.pl/zmywarki-do-zabudowy/electrolux-zmywarka-eem48321l-electrolux.bhtml'),
-    AgdItem('rafalek', 'https://www.euro.com.pl/odkurzacze-automatyczne/beko-vrr81214vw.bhtml'),
+    # AgdItem('rafalek', 'https://www.euro.com.pl/odkurzacze-automatyczne/beko-vrr81214vw.bhtml'),
     AgdItem('okap', 'https://www.euro.com.pl/okapy/electrolux-cfg516r.bhtml')
 ]
 
