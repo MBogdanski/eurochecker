@@ -23,6 +23,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
+        env:
+          EMAIL: ${{ secrets.EMAIL}}
+          PASSWORD: ${{ secrets.PASSWORD}}
         run: python checker.py
 
       - name: commit files
