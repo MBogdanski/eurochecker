@@ -17,7 +17,7 @@ class AgdItem:
 
 
 agd_items = [
-    AgdItem('odkurzacz', 'https://www.euro.com.pl/odkurzacze-pionowe/samsung-jet-90-premium-vs20r9048t3-ge.bhtml'),
+    # AgdItem('odkurzacz', 'https://www.euro.com.pl/odkurzacze-pionowe/samsung-jet-90-premium-vs20r9048t3-ge.bhtml'),
     AgdItem('rafalek_white', 'https://www.euro.com.pl/odkurzacze-automatyczne/beko-vrr81214vw.bhtml'),
     AgdItem('rafalek_black', 'https://www.euro.com.pl/odkurzacze-automatyczne/beko-vrr80214vb.bhtml')
 ]
