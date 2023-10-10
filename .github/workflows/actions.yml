@@ -26,6 +26,7 @@ jobs:
         env:
           EMAIL: ${{ secrets.EMAIL}}
           PASSWORD: ${{ secrets.PASSWORD}}
+          RECIPIENT: ${{ secrets.RECIPIENT}}
         run: python checker.py
 
       - name: commit files
